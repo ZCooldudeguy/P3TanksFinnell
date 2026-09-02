@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 00000000000000000000000000000000
+  productGUID: 3aa376e35bcf6bd49b6ec6489184c2ef
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -961,7 +961,7 @@ PlayerSettings:
   cloudProjectId: 1e45f09b-2e62-4ade-a649-d3322734d0d2
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: QA-Pack-1 2026-01-14_20-55-28
+  projectName: TANKTANKTANKTANKTANKTANKTANK
   organizationId: unity_731256
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
