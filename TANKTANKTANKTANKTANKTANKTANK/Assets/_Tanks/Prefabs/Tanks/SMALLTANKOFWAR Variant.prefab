@@ -41,8 +41,16 @@ PrefabInstance:
       value: 1.5
       objectReference: {fileID: 0}
     - target: {fileID: 1119744811084680192, guid: 946eb4a160d623f45b7d2df994b768c8, type: 3}
+      propertyPath: m_ExplosionForce
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 1119744811084680192, guid: 946eb4a160d623f45b7d2df994b768c8, type: 3}
       propertyPath: m_MaxLaunchForce
       value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 1119744811084680192, guid: 946eb4a160d623f45b7d2df994b768c8, type: 3}
+      propertyPath: m_ExplosionRadius
+      value: 7
       objectReference: {fileID: 0}
     - target: {fileID: 1361637955230819089, guid: 946eb4a160d623f45b7d2df994b768c8, type: 3}
       propertyPath: m_LocalPosition.x

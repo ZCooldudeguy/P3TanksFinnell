@@ -8,6 +8,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1019171566137917980, guid: 287b4f1f6b80f644386caeef08290cd3, type: 3}
+      propertyPath: m_MaxDamage
+      value: 100
+      objectReference: {fileID: 0}
+    - target: {fileID: 1019171566137917980, guid: 287b4f1f6b80f644386caeef08290cd3, type: 3}
+      propertyPath: m_ExplosionForce
+      value: 95
+      objectReference: {fileID: 0}
+    - target: {fileID: 1019171566137917980, guid: 287b4f1f6b80f644386caeef08290cd3, type: 3}
+      propertyPath: m_ExplosionRadius
+      value: 9
+      objectReference: {fileID: 0}
     - target: {fileID: 1390328446674447629, guid: 287b4f1f6b80f644386caeef08290cd3, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6.53
@@ -73,8 +85,20 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3935126682377224580, guid: 287b4f1f6b80f644386caeef08290cd3, type: 3}
+      propertyPath: m_Speed
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 3935126682377224580, guid: 287b4f1f6b80f644386caeef08290cd3, type: 3}
+      propertyPath: m_PlayerNumber
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3935126682377224580, guid: 287b4f1f6b80f644386caeef08290cd3, type: 3}
       propertyPath: m_IsComputerControlled
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8760280714555285423, guid: 287b4f1f6b80f644386caeef08290cd3, type: 3}
+      propertyPath: m_StartingHealth
+      value: 150
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:

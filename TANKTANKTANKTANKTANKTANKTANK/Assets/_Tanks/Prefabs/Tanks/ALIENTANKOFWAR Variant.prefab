@@ -78,6 +78,22 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1538856165196129445, guid: 59b0b3299879bea46986b4f57596ac7e, type: 3}
+      propertyPath: m_Speed
+      value: 16
+      objectReference: {fileID: 0}
+    - target: {fileID: 1538856165196129445, guid: 59b0b3299879bea46986b4f57596ac7e, type: 3}
+      propertyPath: m_PlayerNumber
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 3306678392635172669, guid: 59b0b3299879bea46986b4f57596ac7e, type: 3}
+      propertyPath: m_MaxDamage
+      value: 125
+      objectReference: {fileID: 0}
+    - target: {fileID: 3306678392635172669, guid: 59b0b3299879bea46986b4f57596ac7e, type: 3}
+      propertyPath: m_ExplosionRadius
+      value: 3
+      objectReference: {fileID: 0}
     - target: {fileID: 3498185313313376300, guid: 59b0b3299879bea46986b4f57596ac7e, type: 3}
       propertyPath: m_LocalPosition.x
       value: -6.53
@@ -129,6 +145,10 @@ PrefabInstance:
     - target: {fileID: 4229171144212478561, guid: 59b0b3299879bea46986b4f57596ac7e, type: 3}
       propertyPath: m_Name
       value: ALIENTANKOFWAR Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 6509313055223659150, guid: 59b0b3299879bea46986b4f57596ac7e, type: 3}
+      propertyPath: m_StartingHealth
+      value: 175
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects:
